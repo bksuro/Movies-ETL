@@ -12,7 +12,7 @@ During the module steps were done to extract, transform and load the data to Pos
 ## Challenge Overview
 For challenge project, the code was refactored into a function to extract, clean, transform, and load the data to Postgres Database.
 
-Total time it took to uplaod is shown below along with the final record count of two tables that are created in Postgres database 'movie_data', tables movies and ratings.
+Total time it took to upload is shown below along with the final record count of two tables that are created in Postgres database 'movie_data', tables movies and ratings.
 
 !["26 mi lrecords uploaded"](./Resources/upload_times_to_db.png "time to load 26 mil records")
 
